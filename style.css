@@ -1,0 +1,22 @@
+body {
+	font-family: 'Droid Serif', Georgia, Times, "Times New Roman", serif;
+	font-size: 18px;
+	color: #353535;
+	background-image: url('background.png');
+	margin: 0px auto;
+	max-width: 500px;
+	padding: 40px;
+}
+
+li{
+	padding: 10px;
+}
+
+div.email {
+	padding: 60px;
+	text-align: center;
+}
+
+a{
+	color: #555;
+}
