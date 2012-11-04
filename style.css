@@ -8,6 +8,11 @@ body {
 	padding: 40px;
 }
 
+::selection{
+	background-color: black;
+	color: white;
+}
+
 li{
 	padding: 10px;
 }
